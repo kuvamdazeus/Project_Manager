@@ -6,3 +6,5 @@ you just have to write that encrypted text the configuration.txt, set the projec
 
 run the Project_Automator.py script and you have to just enter your project name in as the input and else all will be done by the script,
 from making a github repo to adding VCS (git) to it, now you can just focus on writing code for your project straight away !
+
+Just run it by using python3 main.py
