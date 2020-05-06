@@ -1,0 +1,11 @@
+This file contains important addresses, don't delete them or modify the pattern
+Please enter the full path without using ~ or .. or . or any other relevant paths in the single quotes
+
+# This parameter takes the file path where your all projects are maintained
+Project File: '/Users/kuvambhardwaj/Desktop/Python3_Projects/'
+
+# enter username or email you use for github [Note: the password entered here should be encrypted by the encryption.py script]
+User: ''
+
+# password for github [Note: the password entered here should be encrypted by the encryption.py script]
+Password: ''
