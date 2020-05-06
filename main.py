@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 import os, re, sys
 import subprocess as sb
 import requests
@@ -78,5 +79,5 @@ def create_project_with_name(project_name):
 
 if __name__ == '__main__':
     # convert spaces to underscores
-    project_name = input('Enter your new project name: ').strip().replace(' ', '_')
+    project_name = input('Enter your new project name: ').strip()
     create_project_with_name(project_name)
