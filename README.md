@@ -1,4 +1,8 @@
 # Project_Manager
+## you should have PyGithub and python3 installed
+
+### to install, write: python3 -m pip install PyGithub
+
 It is one of my favourite repos i ever published on github
 the script main.py is the main script, for it to use, you should enter your details in the configuration.txt
 
